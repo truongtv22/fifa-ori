@@ -1,0 +1,107 @@
+{
+  "sellId": 870663,
+  "productId": 55374,
+  "clientId": "0",
+  "clientSecret": "0",
+  "mdmAppKey": "0",
+  "appUpgrade": "0",
+  "telemetryFreq": 0,
+  "serverData": [
+    {
+      "key": "synergy.s2s",
+      "value": "http://DT-WIN-59200269.eamobile.ad.ea.com:8080/g"
+    },
+    {
+      "key": "friends.url",
+      "value": "http://DT-WIN-59200269.eamobile.ad.ea.com:8080/g"
+    },
+    {
+      "key": "avatars.url",
+      "value": "http://DT-WIN-59200269.eamobile.ad.ea.com:8080/g"
+    },
+    {
+      "key": "origincasualapp.url",
+      "value": "http://DT-WIN-59200269.eamobile.ad.ea.com:8080/g"
+    },
+    {
+      "key": "origincasualserver.url",
+      "value": "http://DT-WIN-59200269.eamobile.ad.ea.com:8080/g"
+    },
+    {
+      "key": "origincasualserver.url",
+      "value": "http://DT-WIN-59200269.eamobile.ad.ea.com:8080/g"
+    },
+    {
+      "key": "akamai.url",
+      "value": "http://DT-WIN-59200269.eamobile.ad.ea.com:8080/g"
+    },
+    {
+      "key": "dmg.url",
+      "value": "http://DT-WIN-59200269.eamobile.ad.ea.com:8080/g"
+    },
+    {
+      "key": "mayhem.url",
+      "value": "http://DT-WIN-59200269.eamobile.ad.ea.com:8080/g"
+    },
+    {
+      "key": "eadp.friends.host",
+      "value": "http://DT-WIN-59200269.eamobile.ad.ea.com:8080/g"
+    },
+    {
+      "key": "eadp.friends.host",
+      "value": "http://DT-WIN-59200269.eamobile.ad.ea.com:8080/g"
+    },
+    {
+      "key": "eadp.friends.host",
+      "value": "http://DT-WIN-59200269.eamobile.ad.ea.com:8080/g"
+    },
+    {
+      "key": "ens.url",
+      "value": "http://DT-WIN-59200269.eamobile.ad.ea.com:8080/g"
+    },
+    {
+      "key": "nexus.connect",
+      "value": "http://DT-WIN-59200269.eamobile.ad.ea.com:8080/g"
+    },
+    {
+      "key": "nexus.proxy",
+      "value": "http://DT-WIN-59200269.eamobile.ad.ea.com:8080/g"
+    },
+    {
+      "key": "nexus.portal",
+      "value": "http://DT-WIN-59200269.eamobile.ad.ea.com:8080/g"
+    },
+    {
+      "key": "synergy.drm",
+      "value": "http://DT-WIN-59200269.eamobile.ad.ea.com:8080/g"
+    },
+    {
+      "key": "synergy.director",
+      "value": "http://DT-WIN-59200269.eamobile.ad.ea.com:8080/g"
+    },
+    {
+      "key": "synergy.m2u",
+      "value": "http://DT-WIN-59200269.eamobile.ad.ea.com:8080/g"
+    },
+    {
+      "key": "synergy.pns",
+      "value": "http://DT-WIN-59200269.eamobile.ad.ea.com:8080/g"
+    },
+    {
+      "key": "synergy.product",
+      "value": "http://13.125.95.173:28080"
+    },
+    {
+      "key": "synergy.tracking",
+      "value": "https://river-test.data.ea.com/tracking/api/core/logEvent"
+    },
+    {
+      "key": "synergy.user",
+      "value": "http://DT-WIN-59200269.eamobile.ad.ea.com:8080/g"
+    },
+    {
+      "key": "geoip.url",
+      "value": "http://DT-WIN-59200269.eamobile.ad.ea.com:8080/g"
+    }
+  ]
+}

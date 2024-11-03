@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@color/com_facebook_blue" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <WebView android:id="@id/wv_email_auth" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <TextView android:textColor="@color/button_text_white" android:id="@id/tv_back" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="10.0dip" android:text="@string/back_button_text" android:textAllCaps="true" android:layout_marginStart="15.0dip" />
+    <TextView android:textColor="@color/button_text_white" android:layout_gravity="end" android:id="@id/tv_close" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginRight="15.0dip" android:text="@string/close_button_text" android:textAllCaps="true" android:layout_marginEnd="15.0dip" />
+</FrameLayout>

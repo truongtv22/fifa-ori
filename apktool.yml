@@ -1,0 +1,391 @@
+version: 2.9.3
+apkFileName: FC Online M by EA SPORTS FC™_1.2408.0005_APKPure.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 21
+  targetSdkVersion: 33
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 124080005
+  versionName: 1.2408.0005
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  androidsupportmultidexversion.txt: 0
+  billing.properties: 0
+  client_analytics.proto: 0
+  DebugProbesKt.bin: 0
+  firebase-analytics.properties: 0
+  firebase-annotations.properties: 0
+  firebase-encoders-proto.properties: 0
+  firebase-encoders.properties: 0
+  firebase-iid-interop.properties: 0
+  firebase-iid.properties: 0
+  firebase-measurement-connector.properties: 0
+  firebase-messaging.properties: 0
+  play-services-ads-identifier.properties: 0
+  play-services-auth-api-phone.properties: 0
+  play-services-auth-base.properties: 0
+  play-services-auth.properties: 0
+  play-services-base.properties: 0
+  play-services-basement.properties: 0
+  play-services-cloud-messaging.properties: 0
+  play-services-drive.properties: 0
+  play-services-games-v2.properties: 0
+  play-services-measurement-api.properties: 0
+  play-services-measurement-base.properties: 0
+  play-services-measurement-impl.properties: 0
+  play-services-measurement-sdk-api.properties: 0
+  play-services-measurement-sdk.properties: 0
+  play-services-measurement.properties: 0
+  play-services-stats.properties: 0
+  play-services-tasks.properties: 0
+  sentry-build.properties: 0
+  transport-api.properties: 0
+  generated-sources/com/twitter/TldLists.java: 0
+  okhttp3/internal/publicsuffix/NOTICE: 0
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: 0
+doNotCompress:
+- AndroidManifest.xml
+- classes.dex
+- resources.arsc
+- assets/chimble_local.json
+- assets/clientinfo.ini
+- assets/contentmanager.cmconfig
+- assets/contentmanagerSpeech.cmconfig
+- assets/country.ini
+- assets/crashlytics-build.properties
+- assets/EAMCore.ini
+- assets/EAMToolManager.ini
+- assets/FMP.ini
+- assets/GameSDK.properties
+- assets/localization_pho.big
+- assets/localization_won.big
+- assets/matchday.cmconfig
+- assets/patch.big
+- assets/publisher.ini
+- assets/PushSDK.properties
+- assets/server.ini
+- assets/store.ini
+- assets/UI.ini
+- assets/WebViewJavascriptBridge.js
+- assets/Win8/WinRT/MainPage.xaml
+- kotlin/kotlin.kotlin_builtins
+- kotlin/annotation/annotation.kotlin_builtins
+- kotlin/collections/collections.kotlin_builtins
+- kotlin/coroutines/coroutines.kotlin_builtins
+- kotlin/internal/internal.kotlin_builtins
+- kotlin/ranges/ranges.kotlin_builtins
+- kotlin/reflect/reflect.kotlin_builtins
+- lib/arm64-v8a/libc++_shared.so
+- lib/arm64-v8a/libcrashlytics-common.so
+- lib/arm64-v8a/libcrashlytics-handler.so
+- lib/arm64-v8a/libcrashlytics-trampoline.so
+- lib/arm64-v8a/libcrashlytics.so
+- lib/arm64-v8a/libFMP.so
+- lib/arm64-v8a/libNimbleCppBridge.so
+- lib/armeabi-v7a/libc++_shared.so
+- lib/armeabi-v7a/libcrashlytics-common.so
+- lib/armeabi-v7a/libcrashlytics-handler.so
+- lib/armeabi-v7a/libcrashlytics-trampoline.so
+- lib/armeabi-v7a/libcrashlytics.so
+- lib/armeabi-v7a/libFMP.so
+- lib/armeabi-v7a/libNimbleCppBridge.so
+- META-INF/services/com.fasterxml.jackson.core.JsonFactory
+- META-INF/services/javax.servlet.ServletContainerInitializer
+- res/anim/abc_fade_in.xml
+- res/anim/abc_fade_out.xml
+- res/anim/abc_grow_fade_in_from_bottom.xml
+- res/anim/abc_popup_enter.xml
+- res/anim/abc_popup_exit.xml
+- res/anim/abc_shrink_fade_out_from_bottom.xml
+- res/anim/abc_slide_in_bottom.xml
+- res/anim/abc_slide_in_top.xml
+- res/anim/abc_slide_out_bottom.xml
+- res/anim/abc_slide_out_top.xml
+- res/anim/abc_tooltip_enter.xml
+- res/anim/abc_tooltip_exit.xml
+- res/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml
+- res/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml
+- res/anim/btn_checkbox_to_checked_icon_null_animation.xml
+- res/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml
+- res/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml
+- res/anim/btn_checkbox_to_unchecked_icon_null_animation.xml
+- res/anim/btn_radio_to_off_mtrl_dot_group_animation.xml
+- res/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml
+- res/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml
+- res/anim/btn_radio_to_on_mtrl_dot_group_animation.xml
+- res/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml
+- res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml
+- res/anim/fragment_fast_out_extra_slow_in.xml
+- res/animator/fragment_close_enter.xml
+- res/animator/fragment_close_exit.xml
+- res/animator/fragment_fade_enter.xml
+- res/animator/fragment_fade_exit.xml
+- res/animator/fragment_open_enter.xml
+- res/animator/fragment_open_exit.xml
+- res/color/abc_background_cache_hint_selector_material_dark.xml
+- res/color/abc_background_cache_hint_selector_material_light.xml
+- res/color/abc_btn_colored_borderless_text_material.xml
+- res/color/abc_btn_colored_text_material.xml
+- res/color/abc_hint_foreground_material_dark.xml
+- res/color/abc_hint_foreground_material_light.xml
+- res/color/abc_primary_text_disable_only_material_dark.xml
+- res/color/abc_primary_text_disable_only_material_light.xml
+- res/color/abc_primary_text_material_dark.xml
+- res/color/abc_primary_text_material_light.xml
+- res/color/abc_search_url_text.xml
+- res/color/abc_secondary_text_material_dark.xml
+- res/color/abc_secondary_text_material_light.xml
+- res/color/abc_tint_btn_checkable.xml
+- res/color/abc_tint_default.xml
+- res/color/abc_tint_edittext.xml
+- res/color/abc_tint_seek_thumb.xml
+- res/color/abc_tint_spinner.xml
+- res/color/abc_tint_switch_track.xml
+- res/color/common_google_signin_btn_text_dark.xml
+- res/color/common_google_signin_btn_text_light.xml
+- res/color/common_google_signin_btn_tint.xml
+- res/color/com_facebook_button_text_color.xml
+- res/color/com_facebook_send_button_text_color.xml
+- res/color/switch_thumb_material_dark.xml
+- res/color/switch_thumb_material_light.xml
+- res/color-v23/abc_btn_colored_borderless_text_material.xml
+- res/color-v23/abc_btn_colored_text_material.xml
+- res/color-v23/abc_color_highlight_material.xml
+- res/color-v23/abc_tint_btn_checkable.xml
+- res/color-v23/abc_tint_default.xml
+- res/color-v23/abc_tint_edittext.xml
+- res/color-v23/abc_tint_seek_thumb.xml
+- res/color-v23/abc_tint_spinner.xml
+- res/color-v23/abc_tint_switch_track.xml
+- res/drawable/abc_action_bar_item_background_material.xml
+- res/drawable/abc_btn_borderless_material.xml
+- res/drawable/abc_btn_check_material.xml
+- res/drawable/abc_btn_check_material_anim.xml
+- res/drawable/abc_btn_colored_material.xml
+- res/drawable/abc_btn_default_mtrl_shape.xml
+- res/drawable/abc_btn_radio_material.xml
+- res/drawable/abc_btn_radio_material_anim.xml
+- res/drawable/abc_cab_background_internal_bg.xml
+- res/drawable/abc_cab_background_top_material.xml
+- res/drawable/abc_dialog_material_background.xml
+- res/drawable/abc_edit_text_material.xml
+- res/drawable/abc_ic_ab_back_material.xml
+- res/drawable/abc_ic_arrow_drop_right_black_24dp.xml
+- res/drawable/abc_ic_clear_material.xml
+- res/drawable/abc_ic_go_search_api_material.xml
+- res/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml
+- res/drawable/abc_ic_menu_cut_mtrl_alpha.xml
+- res/drawable/abc_ic_menu_overflow_material.xml
+- res/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml
+- res/drawable/abc_ic_menu_selectall_mtrl_alpha.xml
+- res/drawable/abc_ic_menu_share_mtrl_alpha.xml
+- res/drawable/abc_ic_search_api_material.xml
+- res/drawable/abc_ic_voice_search_api_material.xml
+- res/drawable/abc_item_background_holo_dark.xml
+- res/drawable/abc_item_background_holo_light.xml
+- res/drawable/abc_list_divider_material.xml
+- res/drawable/abc_list_selector_background_transition_holo_dark.xml
+- res/drawable/abc_list_selector_background_transition_holo_light.xml
+- res/drawable/abc_list_selector_holo_dark.xml
+- res/drawable/abc_list_selector_holo_light.xml
+- res/drawable/abc_ratingbar_indicator_material.xml
+- res/drawable/abc_ratingbar_material.xml
+- res/drawable/abc_ratingbar_small_material.xml
+- res/drawable/abc_seekbar_thumb_material.xml
+- res/drawable/abc_seekbar_tick_mark_material.xml
+- res/drawable/abc_seekbar_track_material.xml
+- res/drawable/abc_spinner_textfield_background_material.xml
+- res/drawable/abc_star_black_48dp.xml
+- res/drawable/abc_star_half_black_48dp.xml
+- res/drawable/abc_switch_thumb_material.xml
+- res/drawable/abc_tab_indicator_material.xml
+- res/drawable/abc_textfield_search_material.xml
+- res/drawable/abc_text_cursor_material.xml
+- res/drawable/abc_vector_test.xml
+- res/drawable/btn_checkbox_checked_mtrl.xml
+- res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml
+- res/drawable/btn_checkbox_unchecked_mtrl.xml
+- res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml
+- res/drawable/btn_radio_off_mtrl.xml
+- res/drawable/btn_radio_off_to_on_mtrl_animation.xml
+- res/drawable/btn_radio_on_mtrl.xml
+- res/drawable/btn_radio_on_to_off_mtrl_animation.xml
+- res/drawable/common_google_signin_btn_icon_dark.xml
+- res/drawable/common_google_signin_btn_icon_dark_focused.xml
+- res/drawable/common_google_signin_btn_icon_dark_normal.xml
+- res/drawable/common_google_signin_btn_icon_disabled.xml
+- res/drawable/common_google_signin_btn_icon_light.xml
+- res/drawable/common_google_signin_btn_icon_light_focused.xml
+- res/drawable/common_google_signin_btn_icon_light_normal.xml
+- res/drawable/common_google_signin_btn_text_dark.xml
+- res/drawable/common_google_signin_btn_text_dark_focused.xml
+- res/drawable/common_google_signin_btn_text_dark_normal.xml
+- res/drawable/common_google_signin_btn_text_disabled.xml
+- res/drawable/common_google_signin_btn_text_light.xml
+- res/drawable/common_google_signin_btn_text_light_focused.xml
+- res/drawable/common_google_signin_btn_text_light_normal.xml
+- res/drawable/com_facebook_auth_dialog_background.xml
+- res/drawable/com_facebook_auth_dialog_cancel_background.xml
+- res/drawable/com_facebook_auth_dialog_header_background.xml
+- res/drawable/com_facebook_button_background.xml
+- res/drawable/com_facebook_button_icon.xml
+- res/drawable/com_facebook_button_like_background.xml
+- res/drawable/com_facebook_button_send_background.xml
+- res/drawable/com_facebook_favicon_blue.xml
+- res/drawable/com_facebook_send_button_icon.xml
+- res/drawable/ic_arrow_down_24dp.xml
+- res/drawable/messenger_button_blue_bg_round.xml
+- res/drawable/messenger_button_blue_bg_selector.xml
+- res/drawable/messenger_button_white_bg_round.xml
+- res/drawable/messenger_button_white_bg_selector.xml
+- res/drawable/msdk_picker_corner.xml
+- res/drawable/notification_action_background.xml
+- res/drawable/notification_bg.xml
+- res/drawable/notification_bg_low.xml
+- res/drawable/notification_icon_background.xml
+- res/drawable/notification_tile_bg.xml
+- png
+- res/drawable/preference_list_divider_material.xml
+- res/drawable/selector_web_authorize_titlebar_back.xml
+- res/drawable/test_level_drawable.xml
+- res/drawable/tiktok_logo.xml
+- res/drawable/tooltip_frame_dark.xml
+- res/drawable/tooltip_frame_light.xml
+- res/drawable/tw__btn_composer_tweet.xml
+- res/drawable/vk_clear_shape.xml
+- res/drawable/vk_gray_transparent_shape.xml
+- res/drawable/vk_share_send_button_background.xml
+- res/drawable-v23/abc_control_background_material.xml
+- res/drawable-watch/abc_dialog_material_background.xml
+- res/drawable-watch/common_google_signin_btn_text_dark_normal.xml
+- res/drawable-watch/common_google_signin_btn_text_disabled.xml
+- res/drawable-watch/common_google_signin_btn_text_light_normal.xml
+- res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml
+- res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml
+- res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml
+- res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml
+- res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml
+- res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml
+- res/interpolator/fast_out_slow_in.xml
+- res/layout/abc_action_bar_title_item.xml
+- res/layout/abc_action_bar_up_container.xml
+- res/layout/abc_action_menu_item_layout.xml
+- res/layout/abc_action_menu_layout.xml
+- res/layout/abc_action_mode_bar.xml
+- res/layout/abc_action_mode_close_item_material.xml
+- res/layout/abc_activity_chooser_view.xml
+- res/layout/abc_activity_chooser_view_list_item.xml
+- res/layout/abc_alert_dialog_button_bar_material.xml
+- res/layout/abc_alert_dialog_material.xml
+- res/layout/abc_alert_dialog_title_material.xml
+- res/layout/abc_cascading_menu_item_layout.xml
+- res/layout/abc_dialog_title_material.xml
+- res/layout/abc_expanded_menu_layout.xml
+- res/layout/abc_list_menu_item_checkbox.xml
+- res/layout/abc_list_menu_item_icon.xml
+- res/layout/abc_list_menu_item_layout.xml
+- res/layout/abc_list_menu_item_radio.xml
+- res/layout/abc_popup_menu_header_item_layout.xml
+- res/layout/abc_popup_menu_item_layout.xml
+- res/layout/abc_screen_content_include.xml
+- res/layout/abc_screen_simple.xml
+- res/layout/abc_screen_simple_overlay_action_mode.xml
+- res/layout/abc_screen_toolbar.xml
+- res/layout/abc_search_dropdown_item_icons_2line.xml
+- res/layout/abc_search_view.xml
+- res/layout/abc_select_dialog_material.xml
+- res/layout/abc_tooltip.xml
+- res/layout/browser_actions_context_menu_page.xml
+- res/layout/browser_actions_context_menu_row.xml
+- res/layout/com_facebook_activity_layout.xml
+- res/layout/com_facebook_device_auth_dialog_fragment.xml
+- res/layout/com_facebook_login_fragment.xml
+- res/layout/com_facebook_smart_device_dialog_fragment.xml
+- res/layout/com_facebook_tooltip_bubble.xml
+- res/layout/custom_dialog.xml
+- res/layout/expand_button.xml
+- res/layout/image_frame.xml
+- res/layout/layout_open_loading_view.xml
+- res/layout/layout_open_network_error_dialog.xml
+- res/layout/layout_open_web_authorize.xml
+- res/layout/linesdk_activity_lineauthentication.xml
+- res/layout/messenger_button_send_blue_large.xml
+- res/layout/messenger_button_send_blue_round.xml
+- res/layout/messenger_button_send_blue_small.xml
+- res/layout/messenger_button_send_white_large.xml
+- res/layout/messenger_button_send_white_round.xml
+- res/layout/messenger_button_send_white_small.xml
+- res/layout/msdk_email_auth_activity.xml
+- res/layout/msdk_picker_denomination_item_view.xml
+- res/layout/msdk_picker_item_view.xml
+- res/layout/msdk_picker_view.xml
+- res/layout/msdk_progress_dialog.xml
+- res/layout/msdk_vk_share_dialog.xml
+- res/layout/notification_action.xml
+- res/layout/notification_action_tombstone.xml
+- res/layout/notification_media_action.xml
+- res/layout/notification_media_cancel_action.xml
+- res/layout/notification_template_big_media.xml
+- res/layout/notification_template_big_media_custom.xml
+- res/layout/notification_template_big_media_narrow.xml
+- res/layout/notification_template_big_media_narrow_custom.xml
+- res/layout/notification_template_custom_big.xml
+- res/layout/notification_template_icon_group.xml
+- res/layout/notification_template_lines_media.xml
+- res/layout/notification_template_media.xml
+- res/layout/notification_template_media_custom.xml
+- res/layout/notification_template_part_chronometer.xml
+- res/layout/notification_template_part_time.xml
+- res/layout/preference.xml
+- res/layout/preference_category.xml
+- res/layout/preference_category_material.xml
+- res/layout/preference_dialog_edittext.xml
+- res/layout/preference_dropdown.xml
+- res/layout/preference_dropdown_material.xml
+- res/layout/preference_information.xml
+- res/layout/preference_information_material.xml
+- res/layout/preference_list_fragment.xml
+- res/layout/preference_material.xml
+- res/layout/preference_recyclerview.xml
+- res/layout/preference_widget_checkbox.xml
+- res/layout/preference_widget_seekbar.xml
+- res/layout/preference_widget_seekbar_material.xml
+- res/layout/preference_widget_switch.xml
+- res/layout/preference_widget_switch_compat.xml
+- res/layout/select_dialog_item_material.xml
+- res/layout/select_dialog_multichoice_material.xml
+- res/layout/select_dialog_singlechoice_material.xml
+- res/layout/support_simple_spinner_dropdown_item.xml
+- res/layout/tw__activity_composer.xml
+- res/layout/tw__activity_oauth.xml
+- res/layout/tw__composer_view.xml
+- res/layout/vk_captcha_dialog.xml
+- res/layout/vk_open_auth_dialog.xml
+- res/layout/vk_share_dialog.xml
+- res/layout-v22/abc_alert_dialog_button_bar_material.xml
+- res/layout-v22/layout_open_web_authorize.xml
+- res/layout-v26/abc_screen_toolbar.xml
+- res/layout-watch/abc_alert_dialog_button_bar_material.xml
+- res/layout-watch/abc_alert_dialog_title_material.xml
+- res/raw/firebase_common_keep.xml
+- res/raw/keep.xml
+- res/raw/synergy_direction.json
+- res/xml/apollo_file_paths.xml
+- res/xml/authenticator.xml
+- res/xml/base_settings.xml
+- res/xml/components.xml
+- res/xml/filepaths.xml
+- res/xml/file_paths.xml
+- res/xml/ga_ad_services_config.xml
+- res/xml/network_security_config.xml
+- res/xml/nimble_log.xml
+- res/xml/nimble_origin.xml

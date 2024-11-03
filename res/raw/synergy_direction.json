@@ -1,0 +1,24 @@
+{
+
+  "sellId": 870663,
+
+  "productId": 55374,
+
+  "clientId": "0",
+
+  "clientSecret": "0",
+
+  "mdmAppKey": "0",
+
+  "appUpgrade": "0",
+
+  "telemetryFreq": 0,
+
+  "ignoreEADeviceId": "true",
+
+  "serverData": [
+    {
+    }
+  ]
+
+}

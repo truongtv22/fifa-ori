@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <base.url>http://127.0.0.1:8080/</base.url>
+    <chimble.synergy.sdk>garena</chimble.synergy.sdk>
+</settings>

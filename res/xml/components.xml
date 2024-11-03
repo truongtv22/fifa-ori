@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<components>
+    <Tracking>com.ea.nimble.tracking.Tracking</Tracking>
+    <TrackingSynergy>com.ea.nimble.tracking.TrackingSynergy</TrackingSynergy>
+    <TrackingS2S>com.ea.nimble.tracking.TrackingS2S</TrackingS2S>
+    <TrackingEventWrangler>com.ea.nimble.tracking.TrackingEventWrangler</TrackingEventWrangler>
+    <Origin>com.ea.nimble.origin.Origin</Origin>
+    <Facebook>com.ea.nimble.Facebook</Facebook>
+    <InAppMessage>com.ea.nimble.inappmessage.InAppMessage</InAppMessage>
+    <PushNotification>com.ea.nimble.pushnotificationgoogle.PushNotification</PushNotification>
+    <GooglePlay>com.ea.nimble.mtx.googleplay.GooglePlay</GooglePlay>
+    <AmazonStore>com.ea.nimble.mtx.amazon.AmazonStore</AmazonStore>
+</components>
