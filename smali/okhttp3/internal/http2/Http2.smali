@@ -183,7 +183,7 @@
 
     move-result-object v5
 
-    const-string v6, "toBinaryString(it)"
+    const-string/jumbo v6, "toBinaryString(it)"
 
     invoke-static {v5, v6}, Lkotlin/jvm/internal/Intrinsics;->checkNotNullExpressionValue(Ljava/lang/Object;Ljava/lang/String;)V
 
@@ -366,8 +366,6 @@
 
     :cond_3
     return-void
-
-    nop
 
     :array_0
     .array-data 4
